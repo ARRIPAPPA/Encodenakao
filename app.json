@@ -14,19 +14,19 @@
         },
         "APP_ID": {
             "description": "You api id, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "16501053"
         },
         "API_HASH": {
             "description": "You api hash, from my.telegram.org or @apiScrapperRoBot.",
-            "value": ""
+            "value": "d8c9b01c863dabacc484c2c06cdd0f6e"
         },
         "BOT_TOKEN": {
             "description": "Make a bot from @BotFather, and enter it's api token here.",
-            "value": ""
+            "value": "6773944059:AAG26B7ZtOGd-7RhRxnhyu4dYP7G3a8Hm8I"
         },
         "OWNER": {
             "description": "Get ur Id Of Telegram nd Paste Here.",
-            "value": ""
+            "value": "5422016608"
         },
         "LOG_CHANNEL": {
             "description": "Input Log Channel Id",
